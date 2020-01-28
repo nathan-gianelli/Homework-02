@@ -1,2 +1,2 @@
 # Homework-02
-responsive
+responsive About Me.
